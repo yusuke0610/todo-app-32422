@@ -1,0 +1,11 @@
+
+.head-content{
+  background-color:rgb(168, 47, 47);
+}
+.main{
+  display:flex;
+}
+.left-content{
+  background-color: black;
+  width: 100vw;
+}
